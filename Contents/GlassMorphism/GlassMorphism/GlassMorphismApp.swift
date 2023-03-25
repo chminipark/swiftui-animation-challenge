@@ -1,8 +1,8 @@
 //
-//  ShimmerTextApp.swift
-//  ShimmerText
+//  GlassMorphismApp.swift
+//  GlassMorphism
 //
-//  Created by minii on 2023/03/22.
+//  Created by minii on 2023/03/25.
 //
 
 // MacBook Air 2020 M1, Memory : 16GB
@@ -13,7 +13,7 @@
 import SwiftUI
 
 @main
-struct ShimmerTextApp: App {
+struct GlassMorphismApp: App {
   var body: some Scene {
     WindowGroup {
       ContentView()

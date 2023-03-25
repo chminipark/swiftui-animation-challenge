@@ -30,6 +30,7 @@ fileprivate struct ShimmerEffectHelper: ViewModifier {
           .overlay {
             GeometryReader {
               let size = $0.size
+              // animation complete in indigoButton
               let extraOffset = size.height / 2.5
               
               Rectangle()

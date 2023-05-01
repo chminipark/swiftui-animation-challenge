@@ -1,6 +1,6 @@
 //
 //  ParticleEffect.swift
-//  ParticleEmitter
+//  ParticleEffect
 //
 //  Created by minii on 2023/05/01.
 //

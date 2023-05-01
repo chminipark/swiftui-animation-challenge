@@ -1,6 +1,6 @@
 //
-//  ParticleEmitterApp.swift
-//  ParticleEmitter
+//  ParticleEffectApp.swift
+//  ParticleEffect
 //
 //  Created by minii on 2023/05/01.
 //
@@ -13,7 +13,7 @@
 import SwiftUI
 
 @main
-struct ParticleEmitterApp: App {
+struct ParticleEffectApp: App {
   var body: some Scene {
     WindowGroup {
       ContentView()

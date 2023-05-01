@@ -1,6 +1,6 @@
 //
 //  Home.swift
-//  ParticleEmitter
+//  ParticleEffect
 //
 //  Created by minii on 2023/05/01.
 //
@@ -39,7 +39,6 @@ struct Home: View {
     }
   }
 }
-
 
 // MARK: CustomButton
 extension Home {

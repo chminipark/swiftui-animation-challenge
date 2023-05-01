@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  ParticleEmitter
+//  ParticleEffect
 //
 //  Created by minii on 2023/05/01.
 //
@@ -11,7 +11,7 @@ struct ContentView: View {
   var body: some View {
     NavigationStack {
       Home()
-        .navigationTitle("ParticleEmitter")
+        .navigationTitle("ParticleEffect")
     }
     .preferredColorScheme(.dark)
   }

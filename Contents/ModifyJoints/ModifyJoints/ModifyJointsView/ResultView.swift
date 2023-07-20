@@ -39,7 +39,6 @@ struct ResultView: View {
                     .onAppear {
                       let viewSize = geo.frame(in: .local).size
                       self.modifyJointsLink.jointsInfo.viewSize = viewSize
-                      print(viewSize)
                     }
                   
                   BonesView(
